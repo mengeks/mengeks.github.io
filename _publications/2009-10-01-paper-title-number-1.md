@@ -10,6 +10,13 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
+|<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>|
+|---|
+
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
