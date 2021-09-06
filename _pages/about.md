@@ -14,7 +14,7 @@ News
 ======
 9 Aug, 2021 &nbsp; &emsp; Talk on [assessing Uniformity in Sampling of Sedentary Times](https://mengeks.github.io/xmeng.github.io/files/JSM_HeartSteps_ResearchTalk_v6.pdf) at JSM 2021.
 
-31 Jul, 2021 &nbsp; &emsp; Paper on [coherent modeling of longitudinal causal effects](https://mengeks.github.io/xmeng.github.io/files/biom_snmm_revision.pdf) submitted to Biometrika.
+31 Jul, 2021 &nbsp; &emsp; Paper on [coherent modeling of longitudinal causal effects](https://mengeks.github.io/xmeng.github.io/files/biom_snmm_revision.pdf) submitted.
 
 27 May, 2021 &nbsp; &emsp; Paper on [doubly robust, machine learning effect estimation in real-world clinical sciences](https://arxiv.org/abs/2105.13148) with [Jonathan Huang](https://scholar.google.ca/citations?user=gmxXVuwAAAAJ&hl=en) on arxiv.
 
