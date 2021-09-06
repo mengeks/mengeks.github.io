@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Xiang Meng"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Xiang Meng"
+description              : &description "PhD Student at Harvard University"
 url                      : https://mengeks.github.io/xmeng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengeks/xmeng.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mengeks"
   google_plus      :
   keybase          :
   instagram        :

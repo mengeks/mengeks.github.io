@@ -12,4 +12,8 @@ Hi! I am a PhD student in Statistics at the [Harvard University](https://statist
 
 News
 ======
-9 Aug, 2021 &nbsp; &emsp; Talk titled "Assessing Uniformity in Sampling of Sedentary Times" at JSM 2021
+9 Aug, 2021 &nbsp; &emsp; Talk titled [Assessing Uniformity in Sampling of Sedentary Times](https://mengeks.github.io/xmeng.github.io/files/JSM_HeartSteps_ResearchTalk_v6.pdf) at JSM 2021
+
+31 Jul, 2021 &nbsp; &emsp; Paper [] re-submitted to Biometrika.
+
+1 Jun, 2021 &nbsp; &emsp; Graduated from [University of Washington](https://stat.uw.edu/)
