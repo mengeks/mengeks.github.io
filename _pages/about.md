@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student in Statistics at the [Harvard University](https://statistics.fas.harvard.edu/), working with Prof. [Susan Murphy](http://people.seas.harvard.edu/~samurphy/). I am broadly interested in causal inference, reinforcement learning, and the practical side of the both, especially their application in mobile health. Previously, I have obtained my MS in statistics from [University of Washington](https://stat.uw.edu/), where I worked with Prof. [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php)
+I am a PhD student in Statistics at the [Harvard University](https://statistics.fas.harvard.edu/). I work with Prof. [Susan Murphy](http://people.seas.harvard.edu/~samurphy/) on assessing and improving algorithms to ensure both uniformity over treatments and to constraint on treatment amount in [micro-randomized trials](http://people.seas.harvard.edu/~samurphy/JITAI_MRT/mrts4.html) on mobile health studies.
+
+I had completed internship with  the Clinical Modeling & Evidence Integration team at [Sanofi](https://www.sanofi.us/) (summer 2022). Before coming to Boston, I have obtained my Master of Science in statistics from [University of Washington](https://stat.uw.edu/)(2020), where I worked with Prof. [Thomas Richardson](https://sites.stat.washington.edu/tsr/website/inquiry/home.php), Bachelor of Science in Quantitative Finance from National University of Singapore (2018). I have also completed summer internships at [Dymon Asia Capital](https://www.dymonasia.com/) (2017). 
 
 News
 ======
