@@ -3,14 +3,20 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+
+<b>Predict Progression Free Survival and Overall Survival Using Objective Response Rate for Anti-PD1/PDL1 Therapy Development</b> <br>
+Lei Yang, Geethanjali Raveendran, *Xiang Meng*, Ji Lin & Zhaoling Meng <br />
+<i>Biometrics</i>.<br />
+[[Paper](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-024-12664-1)]
+
 <br>
 <b>Coherent modeling of longitudinal causal effects on binary outcomes</b> <br>
 Linbo Wang, *Xiang Meng*, Thomas Richardson, James Robins <br />
-<i>Submitted</i>.<br />
+<i>Biometrics</i>.<br />
 [[Paper](https://mengeks.github.io/xmeng.github.io/files/biom_snmm_revision.pdf)] [[Code & Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UZAI96)]
 
 <br>
-<b>Doubly robust, machine learning effect estimation in real-world clinical sciences: A practical evaluation of performance in molecular epidemiology cohort settings</b> <br>
+<b>REFINE2: A tool to evaluate real-world performance of machine-learning based effect estimators for molecular and clinical studies</b> <br>
 *Xiang Meng*, Jonathan Huang <br />
 <i>Preprint</i>.<br />
 [[arXiv](https://arxiv.org/abs/2105.13148)] [[Code](https://github.com/mengeks/drml-plasmode)]
