@@ -6,7 +6,7 @@ author_profile: true
 
 <b>Predict Progression Free Survival and Overall Survival Using Objective Response Rate for Anti-PD1/PDL1 Therapy Development</b> <br>
 Lei Yang, Geethanjali Raveendran, *Xiang Meng*, Ji Lin & Zhaoling Meng <br />
-<i>Biometrics</i>.<br />
+<i>BMC Cancer</i>.<br />
 [[Paper](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-024-12664-1)]
 
 <br>
