@@ -16,7 +16,7 @@ author_profile: true
 
 <br>
 <b>Predicting the strength of next-day negative emotion states in body dysmorphic disorder using passive smartphone data: An intensive longitudinal assessment study</b> <br>
-Hannah Weingarden, *Xiang Meng*, Michael Armey, Jukka P. Onnela, Anna Jaroszewski, Casey Armstrong, Sabine Wilhelm <br />
+Hilary Weingarden, *Xiang Meng*, Michael Armey, Jukka P. Onnela, Adam Jaroszewski, Caroline Armstrong, Sabine Wilhelm <br />
 <i>Internet Interventions (in press)</i>.<br />
 
 <br>
