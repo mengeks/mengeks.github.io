@@ -6,7 +6,30 @@ author_profile: true
 <b>Variance estimation after matching or re-weighting</b> <br>
 *Xiang Meng*, Aaron Smith, Luke Miratrix <br />
 <i>Preprint</i>.<br />
-[[Paper](https://mengeks.github.io/xmeng.github.io/files/Inference_in_Matching-13May2025.pdf)]
+[[Paper](https://mengeks.github.io/files/Inference_in_Matching-13May2025.pdf)]
+
+<br>
+<b>Time-Varying Causal Survival Learning</b> <br>
+*Xiang Meng*, Iavor Bojinov <br />
+<i>arXiv: 2503.00730</i>.<br />
+[[Paper](https://arxiv.org/abs/2503.00730)]
+
+<br>
+<b>Predicting the strength of next-day negative emotion states in body dysmorphic disorder using passive smartphone data: An intensive longitudinal assessment study</b> <br>
+Hannah Weingarden, *Xiang Meng*, Michael Armey, Jukka P. Onnela, Anna Jaroszewski, Casey Armstrong, Sabine Wilhelm <br />
+<i>Internet Interventions (in press)</i>.<br />
+
+<br>
+<b>Caliper Synthetic Matching</b> <br>
+Jonathan Che, *Xiang Meng*, Luke Miratrix <br />
+<i>arXiv:2411.05246</i>.<br />
+[[Paper](https://arxiv.org/abs/2411.05246)] [<i>R package: github.com/jche/scmatch2</i>]
+
+<br>
+<b>Evaluation of the HeartSteps Online Algorithm</b> <br>
+*Xiang Meng*, Walter Dempsey, Peng Liao, Nancy Reid, Predrag Klasnja, Susan Murphy <br />
+<i>arXiv: 2501.02137</i>.<br />
+[[Paper](https://arxiv.org/abs/2501.02137)]
 
 <br>
 <b>Predict Progression Free Survival and Overall Survival Using Objective Response Rate for Anti-PD1/PDL1 Therapy Development</b> <br>
