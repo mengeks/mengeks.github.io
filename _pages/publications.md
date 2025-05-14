@@ -3,7 +3,12 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>Variance estimation after matching or re-weighting</b> <br>
+*Xiang Meng*, Aaron Smith, Luke Miratrix <br />
+<i>Preprint</i>.<br />
+[[Paper](https://mengeks.github.io/xmeng.github.io/files/Inference_in_Matching-13May2025.pdf)]
 
+<br>
 <b>Predict Progression Free Survival and Overall Survival Using Objective Response Rate for Anti-PD1/PDL1 Therapy Development</b> <br>
 Lei Yang, Geethanjali Raveendran, *Xiang Meng*, Ji Lin & Zhaoling Meng <br />
 <i>BMC Cancer</i>.<br />
