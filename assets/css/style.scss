@@ -1,0 +1,44 @@
+---
+---
+
+@import "jekyll-theme-minimal";  // this keeps existing theme styles
+
+//.sidebar {
+//  position: fixed;
+//  left: 100px;  // 确保紧贴左边
+//}
+
+
+// 🔽 Your custom sidebar styles
+.sidebar {
+  width: 300px;
+  float: left;
+  padding: 1em;
+  background-color: #f7f7f7;
+  height: 100vh;
+  box-sizing: border-box;
+  position: fixed;
+}
+
+.wrapper {
+  margin-left: 320px;  // offset main content
+  padding: 1em;
+}
+
+.nav-links {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.nav-links li {
+  margin: 0.5em 0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}

@@ -10,7 +10,9 @@ title                    : "Xiang Meng"
 description              : &description "Researcher in Causal Inference"
 url                      : https://mengeks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-remote_theme: pages-themes/minimal@v0.2.0
+theme: null
+
+# remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
   - jekyll-feed
