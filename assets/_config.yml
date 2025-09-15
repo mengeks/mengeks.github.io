@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+title                    : "Xiang Meng"
+description              : &description "Researcher in Causal Inference"
+url                      : https://mengeks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+#remote_theme: pages-themes/cayman@v0.2.0
+
+#plugins:
+#  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-remote-theme
+
+
+author: Xiang Meng
+github_username: mengeks
+
+

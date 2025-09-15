@@ -1,2 +1,7 @@
 _site/
 
+
+# Don’t track theme repos copied inside
+_minimal-theme/
+assets/_minimal-theme/
+assets/assets/
