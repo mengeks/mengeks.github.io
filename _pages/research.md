@@ -1,7 +1,7 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?hl=en&user=T-0iQuwAAAAJ)"
-permalink: /publications/
-author_profile: true
+layout: default
+title: Research
+permalink: /research/
 ---
 <b>Variance estimation after matching or re-weighting</b> <br>
 *Xiang Meng*, Aaron Smith, Luke Miratrix <br />
