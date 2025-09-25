@@ -10,6 +10,7 @@
 
 
 // 🔽 Your custom sidebar styles
+/* Sidebar: locked to left, exactly 300px wide */
 .sidebar {
   width: 300px;
   float: left;
@@ -20,10 +21,53 @@
   position: fixed;
 }
 
+
+/* Wrapper: fill remaining space, centered text block */
 .wrapper {
-  margin-left: 320px;  // offset main content
-  padding: 1em;
+  margin-left: 280px;                       /* offset for sidebar */
+  padding: 0 2em;                           /* equal left/right breathing room */
+  width: calc(100% - 300px);                /* usable space */
+  max-width: none;
+  box-sizing: border-box;
 }
+
+/* Section: full width inside wrapper */
+.wrapper > section {
+  margin: 0 auto;                           /* center content horizontally */
+  max-width: 1200px;                        /* cap for readability */
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+/* Mobile view: stack sidebar on top */
+@media (max-width: 768px) {
+  .sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+
+  .wrapper {
+    margin-left: 0;
+  }
+}
+
+body {
+  font-size: 20px;   // better base
+  line-height: 1.6;  // more breathing room
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.25em; }
+
+
 
 .nav-links {
   list-style-type: none;
