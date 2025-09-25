@@ -12,7 +12,7 @@
 // 🔽 Your custom sidebar styles
 /* Sidebar: locked to left, exactly 300px wide */
 .sidebar {
-  width: 300px;
+  width: 280px;
   float: left;
   padding: 1em;
   background-color: #f7f7f7;
@@ -24,9 +24,9 @@
 
 /* Wrapper: fill remaining space, centered text block */
 .wrapper {
-  margin-left: 280px;                       /* offset for sidebar */
-  padding: 0 2em;                           /* equal left/right breathing room */
-  width: calc(100% - 300px);                /* usable space */
+  margin-left: 200px;                       /* offset for sidebar */
+  padding: 0 0em;                           /* equal left/right breathing room */
+  width: calc(100% - 200px);                /* usable space */
   max-width: none;
   box-sizing: border-box;
 }
@@ -34,15 +34,9 @@
 /* Section: full width inside wrapper */
 .wrapper > section {
   margin: 0 auto;                           /* center content horizontally */
-  max-width: 1200px;                        /* cap for readability */
+  max-width: 1100px;                        /* cap for readability */
   width: 100%;
 }
-
-
-
-
-
-
 
 
 
@@ -60,7 +54,7 @@
 }
 
 body {
-  font-size: 20px;   // better base
+  font-size: 16px;   // better base
   line-height: 1.6;  // more breathing room
 }
 h1 { font-size: 2em; }
