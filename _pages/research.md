@@ -6,7 +6,7 @@ permalink: /research/
 <b>Variance estimation after matching or re-weighting</b> <br>
 *Xiang Meng*, Aaron Smith, Luke Miratrix <br />
 <i>Preprint</i>.<br />
-[[Paper](https://mengeks.github.io/files/Inference_in_Matching-13May2025.pdf)]
+[[Paper](https://mengeks.github.io/files/Inference_in_Matching-27Sep2025.pdf)]
 
 <br>
 <b>Time-Varying Causal Survival Learning</b> <br>
