@@ -6,7 +6,7 @@ permalink: /research/
 <b>Variance estimation after matching or re-weighting</b> <br>
 *Xiang Meng*, Aaron Smith, Luke Miratrix <br />
 <i>Preprint</i>.<br />
-[[Paper](https://mengeks.github.io/files/Inference_in_Matching-27Sep2025.pdf)]
+[[Paper](https://mengeks.github.io/files/Inference_in_Matching-10Nov2025.pdf)]
 
 <br>
 <b>Time-Varying Causal Survival Learning</b> <br>
@@ -23,7 +23,7 @@ Hilary Weingarden, *Xiang Meng*, Michael Armey, Jukka P. Onnela, Adam Jaroszewsk
 <b>Caliper Synthetic Matching</b> <br>
 Jonathan Che, *Xiang Meng*, Luke Miratrix <br />
 <i>arXiv:2411.05246</i>.<br />
-[[Paper](https://arxiv.org/abs/2411.05246)] [<i>R package: github.com/jche/scmatch2</i>]
+[[Paper](https://arxiv.org/abs/2411.05246)] [[R package](github.com/jche/scmatch2)]
 
 <br>
 <b>Evaluation of the HeartSteps Online Algorithm</b> <br>
