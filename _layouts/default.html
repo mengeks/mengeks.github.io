@@ -43,3 +43,7 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
+
+{% if page.layout == 'post' or page.path contains '_posts' %}
+    {% include giscus.html %}
+  {% endif %}
