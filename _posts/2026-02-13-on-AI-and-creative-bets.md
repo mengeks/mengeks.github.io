@@ -204,9 +204,9 @@ AI在任何"已定义的优秀"上都会超过人类。但"定义什么是优秀
 
 *This means **creative bets are no longer the privilege of rare geniuses, but a survival skill for everyone**. Not everyone needs to become Jay Chou, but everyone needs to ask: how much of what I do can AI directly replace? What remains—those parts requiring me to make unsafe judgments in specific situations—that's the reason for my existence.*
 
-而且，和我在[上一篇文章]({% link _posts/2025-10-19-staying-awake.md %})里写过的一样：学了之后，继续问自己——这个判断，是我真的做出来的，还是我被框架说服了？在AI时代，这个问题变得更尖锐：这个选择，是我真的在创造，还是我只是在概率上的安全区里做优化？
+而且，和我在[上一篇文章]({% link _posts/2025-10-19-on-musical-judgment-and-awareness.md %})里写过的一样：学了之后，继续问自己——这个判断，是我真的做出来的，还是我被框架说服了？在AI时代，这个问题变得更尖锐：这个选择，是我真的在创造，还是我只是在概率上的安全区里做优化？
 
-*And, as I wrote in my [previous post]({% link _posts/2025-10-19-staying-awake.md %}): after learning, keep asking yourself—did I truly make this judgment, or was I convinced by a framework? In the AI era, this question becomes sharper: am I truly creating with this choice, or just optimizing within a probabilistically safe zone?*
+*And, as I wrote in my [previous post]({% link _posts/2025-10-19-on-musical-judgment-and-awareness.md %}): after learning, keep asking yourself—did I truly make this judgment, or was I convinced by a framework? In the AI era, this question becomes sharper: am I truly creating with this choice, or just optimizing within a probabilistically safe zone?*
 
 这个问题，值得一直问下去。
 
