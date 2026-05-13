@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <b>Efficient and Debiased Learning of Average Hazards Under Non-Proportional Hazards</b> <br>
-*Xiang Meng*, Liangyuan Tian, Kenneth Kehl, Hajime Uno <br />
+*Xiang Meng*, Lu Tian, Kenneth Kehl, Hajime Uno <br />
 <i>Submitted. arXiv:2602.13475</i>.<br />
 [[Paper](https://arxiv.org/abs/2602.13475)]
 
