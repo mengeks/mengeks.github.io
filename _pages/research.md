@@ -3,6 +3,12 @@ layout: default
 title: Research
 permalink: /research/
 ---
+<b>Efficient and Debiased Learning of Average Hazards Under Non-Proportional Hazards</b> <br>
+*Xiang Meng*, Liangyuan Tian, Kenneth Kehl, Hajime Uno <br />
+<i>Submitted. arXiv:2602.13475</i>.<br />
+[[Paper](https://arxiv.org/abs/2602.13475)]
+
+<br>
 <b>Variance estimation after matching or re-weighting</b> <br>
 *Xiang Meng*, Aaron Smith, Luke Miratrix <br />
 <i>Preprint</i>.<br />
@@ -23,7 +29,7 @@ Hilary Weingarden, *Xiang Meng*, Michael Armey, Jukka P. Onnela, Adam Jaroszewsk
 <b>Caliper Synthetic Matching</b> <br>
 Jonathan Che, *Xiang Meng*, Luke Miratrix <br />
 <i>arXiv:2411.05246</i>.<br />
-[[Paper](https://arxiv.org/abs/2411.05246)] [[R package](github.com/jche/scmatch2)]
+[[Paper](https://arxiv.org/abs/2411.05246)] [[R package](https://github.com/jche/scmatch2)]
 
 <br>
 <b>Evaluation of the HeartSteps Online Algorithm</b> <br>

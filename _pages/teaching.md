@@ -18,6 +18,14 @@ author_profile: true
 
 * **Introduction to Probability (STAT 110)** - Teaching Fellow, Fall 2021
 
+## Workshops Organized
+
+* **Advanced Methods in Survival Analysis** - Dana-Farber Cancer Institute Data Science Training, November 2025
+  * Co-organized with Hajime Uno and Angel Cronin
+
+* **HSPH Postdoctoral Association Poster Day** - Harvard T.H. Chan School of Public Health, April 2026
+  * Organized poster day showcasing wide-ranging postdoctoral research ([News](https://hsph.harvard.edu/news/postdoctoral-associations-poster-day-showcases-wide-ranging-research/))
+
 ## Other Teaching Experience
 * **STEMPREP Summer Statistics Course for 7th and 8th Grade Students** - University of Washington, Summer 2019
 
