@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git pull *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git commit -m 'fix author name: Liangyuan Tian → Lu Tian *)"
+    ]
+  }
+}
