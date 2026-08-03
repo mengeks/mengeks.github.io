@@ -9,10 +9,10 @@ permalink: /research/
 [[Paper](https://arxiv.org/abs/2602.13475)]
 
 <br>
-<b>Variance estimation after matching or re-weighting</b> <br>
+<b>Simple and Reliable Inference for Matching Estimators</b> <br>
 *Xiang Meng*, Aaron Smith, Luke Miratrix <br />
 <i>Preprint</i>.<br />
-[[Paper](https://mengeks.github.io/files/Inference_in_Matching-10Nov2025.pdf)]
+[[Paper](https://mengeks.github.io/files/inf-matching-main_submitted-July2026.pdf)]
 
 <br>
 <b>Time-Varying Causal Survival Learning</b> <br>
