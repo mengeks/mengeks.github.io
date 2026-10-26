@@ -1,4 +1,5 @@
 ---
+blog_section: non-technical
 layout: default
 title: "保持清醒：关于音乐、判断力与集体惯性的思考 | Staying Awake: On Music, Judgment, and Collective Inertia"
 date: 2025-10-19

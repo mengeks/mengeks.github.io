@@ -1,4 +1,5 @@
 ---
+blog_section: non-technical
 layout: default
 title: "创造性赌注：关于AI、风格与人类不可替代性的思考 | Creative Bets: On AI, Style, and Human Irreplaceability"
 date: 2025-02-13

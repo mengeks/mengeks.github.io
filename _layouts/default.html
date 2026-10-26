@@ -46,6 +46,6 @@
   </body>
 </html>
 
-{% if page.layout == 'post' or page.path contains '_posts' %}
+{% if page.layout != 'post' and page.path contains '_posts' %}
     {% include giscus.html %}
   {% endif %}

@@ -1,4 +1,5 @@
 ---
+blog_section: non-technical
 layout: default
 title: "当奇迹变成投射：为什么崇拜会反噬年轻运动员 | When Miracles Become Projections: Why Public Adoration Turns Against Young Athletes"
 date: 2026-05-18

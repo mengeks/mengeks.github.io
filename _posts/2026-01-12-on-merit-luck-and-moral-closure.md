@@ -1,4 +1,5 @@
 ---
+blog_section: non-technical
 layout: default
 title: "在功绩与偶然之间：如何避免过快的道德收敛 | Between Merit and Luck: Avoiding Premature Moral Closure"
 date: 2026-01-12

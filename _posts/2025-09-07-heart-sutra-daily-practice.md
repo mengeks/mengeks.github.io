@@ -1,4 +1,5 @@
 ---
+blog_section: non-technical
 layout: default
 title: "从《心经》到日常修行：般若智慧在现代生活中的应用 | From the Heart Sutra to Daily Practice: Applying Prajñāpāramitā Wisdom in Modern Life"
 ---
