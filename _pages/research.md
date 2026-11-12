@@ -51,7 +51,8 @@ arXiv:2503.00730. Preliminary version at AAAI-25 Workshop on Artificial Intellig
 
 **Average cause-specific hazard: A censoring-invariant measure of event burden under competing risks** <br>
 K. Nabi&dagger;, *Xiang Meng*, Lu Tian, J. Connors, D. Schrag, Hajime Uno <br>
-Major revision, Biometrics.
+Major revision, Biometrics. <br>
+[[Paper](https://arxiv.org/abs/2607.13293)]
 
 **Efficient and Debiased Learning of Average Hazards Under Non-Proportional Hazards** <br>
 *Xiang Meng*, Lu Tian, Kenneth Kehl, Hajime Uno <br>
