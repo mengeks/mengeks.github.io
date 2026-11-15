@@ -44,10 +44,10 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
 
 ## Manuscripts under review and preprints
 
-**Time-Varying Causal Survival Learning** <br>
+**Time-Varying Causal Survival Learning under Staggered Adoption** <br>
 *Xiang Meng*, Iavor Bojinov <br>
 arXiv:2503.00730. Preliminary version at AAAI-25 Workshop on Artificial Intelligence with Causal Techniques; journal version in preparation. <br>
-[[Paper]({{ "/files/Time_Varying_Causal_Survival_Learning-9.pdf" | relative_url }})] [[arXiv](https://arxiv.org/abs/2503.00730)]
+[[Paper]({{ "/files/Time_Varying_Causal_Survival_Learning.pdf" | relative_url }})] [[arXiv](https://arxiv.org/abs/2503.00730)]
 
 **Average cause-specific hazard: A censoring-invariant measure of event burden under competing risks** <br>
 K. Nabi&dagger;, *Xiang Meng*, Lu Tian, J. Connors, D. Schrag, Hajime Uno <br>
