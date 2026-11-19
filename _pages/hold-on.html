@@ -1,0 +1,59 @@
+---
+layout: default
+title: "Hold On · 等一下"
+description: "A calm little sand garden that keeps you company while your AI is working."
+permalink: /hold-on/
+---
+{% assign ho = site.data.hold_on %}
+<style>
+  .hold-on .pitch { font-size: 1.15em; color: #444; }
+  .hold-on .zh { color: #888; font-weight: normal; }
+  .hold-on .status {
+    border-left: 4px solid #8fae7e; background: #f4f8f1;
+    padding: 0.8em 1em; margin: 1.5em 0; border-radius: 4px;
+  }
+  .hold-on .qr-block { display: flex; gap: 1.5em; align-items: center; flex-wrap: wrap; margin-top: 1em; }
+  .hold-on .qr-block img { width: 180px; height: 180px; image-rendering: pixelated; }
+  .hold-on .small { color: #777; font-size: 0.9em; }
+</style>
+
+<div class="hold-on">
+  <h1>Hold On <span class="zh">· 等一下</span></h1>
+
+  <p class="pitch">A calm little sand garden that keeps you company while your AI is working, and blooms a flower when the task is done.</p>
+
+  <ul>
+    <li>Pops up softly over your screen on macOS when Claude Code or ChatGPT desktop starts a task.</li>
+    <li>Pour water, dig channels, plant seeds, and follow a duck around. No levels, no points, no countdown.</li>
+    <li>When the task finishes, a flower blooms and one click takes you back to your AI.</li>
+    <li>Runs entirely on your own Mac: nothing is sent anywhere. In English and 中文.</li>
+  </ul>
+
+  <div class="status">
+    <strong>In private testing.</strong> Want to try it? Email me at
+    <a href="mailto:{{ ho.contact_email }}?subject=Hold%20On%20test%20build">{{ ho.contact_email }}</a>
+    and I'll send you a test build.
+  </div>
+
+  <h2 id="feedback">Feedback</h2>
+  <p>Tried it, or have an idea? I'd love to hear from you:
+    <a href="mailto:{{ ho.contact_email }}?subject=Hold%20On%20feedback">send feedback</a>.</p>
+
+  <h2 id="support">Support / donate</h2>
+  <!-- To enable later: replace the paragraph below with your donation link(s), e.g.
+       <p><a href="https://example.com/your-link">Buy me a coffee</a></p> -->
+  <div class="support-links">
+    <p>Coming soon.</p>
+  </div>
+
+  <h2 id="share">Share</h2>
+  <div class="qr-block">
+    <img src="{{ ho.qr_image | relative_url }}" alt="QR code for {{ ho.public_url }}">
+    <div>
+      <p><a href="{{ ho.public_url }}">{{ ho.public_url | remove: "https://" }}</a></p>
+      <p class="small"><a href="{{ "/hold-on/slide/" | relative_url }}">One-slide view</a> for projecting.</p>
+    </div>
+  </div>
+
+  <p class="small" style="margin-top:2em;"><a href="{{ "/" | relative_url }}">&larr; Back to Xiang Meng's homepage</a></p>
+</div>

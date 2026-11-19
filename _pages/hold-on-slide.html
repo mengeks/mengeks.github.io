@@ -1,0 +1,57 @@
+---
+layout: null
+permalink: /hold-on/slide/
+---
+{% assign ho = site.data.hold_on %}<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hold On · 等一下</title>
+  <link rel="canonical" href="{{ ho.public_url }}">
+  <style>
+    html, body { margin: 0; height: 100%; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", Helvetica, Arial, sans-serif;
+      background: #fbf8f1; color: #2b2b2b;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .slide {
+      display: flex; align-items: center; justify-content: center;
+      gap: 6vw; padding: 4vh 5vw; box-sizing: border-box; width: 100%; max-width: 1600px;
+    }
+    .text { flex: 1 1 0; min-width: 0; }
+    h1 { font-size: clamp(2.5rem, 7vw, 6.5rem); margin: 0 0 0.2em; line-height: 1.05; font-weight: 700; }
+    h1 .zh { display: block; font-size: 0.55em; color: #7a8f6c; font-weight: 500; margin-top: 0.15em; }
+    .pitch { font-size: clamp(1.2rem, 2.6vw, 2.4rem); line-height: 1.35; margin: 0.6em 0 0.9em; color: #444; }
+    .cta { font-size: clamp(1.1rem, 2.2vw, 2rem); margin: 0; }
+    .cta strong { color: #4f6f3f; display: block; }
+    .email { display: block; margin-top: 0.3em; font-size: 0.9em; color: #555; word-break: break-all; }
+    .qr { flex: 0 0 auto; text-align: center; }
+    .qr img {
+      width: min(42vw, 72vh); height: min(42vw, 72vh);
+      background: #fff; padding: 1vh; border-radius: 12px;
+      box-shadow: 0 2px 18px rgba(0,0,0,0.08); image-rendering: pixelated;
+    }
+    .qr .url { margin-top: 0.6em; font-size: clamp(0.9rem, 1.6vw, 1.4rem); color: #666; }
+    @media (max-aspect-ratio: 1/1) {
+      .slide { flex-direction: column; text-align: center; }
+      .qr img { width: min(80vw, 50vh); height: min(80vw, 50vh); }
+    }
+  </style>
+</head>
+<body>
+  <main class="slide">
+    <div class="text">
+      <h1>Hold On <span class="zh">等一下</span></h1>
+      <p class="pitch">A calm sand garden that keeps you company while your AI works, and blooms a flower when it's done.</p>
+      <p class="cta"><strong>In private testing.</strong> Email me to try it:
+        <a class="email" href="mailto:{{ ho.contact_email }}?subject=Hold%20On%20test%20build">{{ ho.contact_email }}</a></p>
+    </div>
+    <div class="qr">
+      <img src="{{ ho.qr_image | relative_url }}" alt="QR code for {{ ho.public_url }}">
+      <div class="url">{{ ho.public_url | remove: "https://" }}</div>
+    </div>
+  </main>
+</body>
+</html>
